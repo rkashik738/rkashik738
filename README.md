@@ -19,7 +19,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/RkAshik9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="utsobe_" height="30" width="40" /></a>
+<a href="https://twitter.com/RkAshik9" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="rkashik09" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/md-rezaul-karim-%E6%98%8E%E6%98%9F-90a752189/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="utsobe" height="30" width="40" /></a>
 <a href="https://www.instagram.com/rkashik07/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="utsobe_01" height="30" width="40" /></a>
 </p>
