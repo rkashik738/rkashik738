@@ -4,8 +4,8 @@
 <img align="right" width="60%" marg src="https://cdn.dribbble.com/users/1292677/screenshots/6139167/media/fcf7fd0c619bb87706533079240915f3.gif" alt="" />
 
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsobe&label=Profile%20views&color=0e75b6&style=flat" alt="utsobe" /> </p>
-<p align="left"> <a href="https://twitter.com/rkashik09" target="blank"><img src="https://img.shields.io/twitter/follow/utsobe_?logo=twitter&style=for-the-badge" alt="rkashik09" /></a> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=utsobe&label=Profile%20views&color=0e75b6&style=flat" alt="rkashik" /> </p>
+<p align="left"> <a href="https://twitter.com/RkAshik9" target="blank"><img src="https://img.shields.io/twitter/follow/ashik_?logo=twitter&style=for-the-badge" alt="rkashik09" /></a> </p>
 
 - 🔭 I’m currently working on **Native Tools**
 
