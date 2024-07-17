@@ -9,9 +9,9 @@
 
 - 🔭 I’m currently working on **Native Tools**
 
-- 🌱 I’m currently learning **React Native, NextJS, TypeScript**
+- 🌱 I’m currently learning **flutter,Dart,React Native, NextJS, TypeScript**
 
-- 💬 Ask me about **MERN, JavaScript**
+- 💬 Ask me about **Flutter**
 
 - 📫 How to reach me **rkashik738@gmail.com**
 
